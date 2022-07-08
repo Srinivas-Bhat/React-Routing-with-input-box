@@ -1,0 +1,46 @@
+{
+  "productDetails": [
+    {
+      "name": "SmartPhone",
+      "des" : "8gb ram, 100px camera, Best selling",
+      "price": 30,
+      "url": "https://images-eu.ssl-images-amazon.com/images/I/41I3PL9AhaL._AC_SR400,600_.jpg",
+      "id": 0
+    },
+    {
+      "name": "Watch",
+      "des" : "Best selling watch with smart features",
+      "price": 20,
+      "url": "https://m.media-amazon.com/images/I/61sZFt+rv7L._AC_UY327_FMwebp_QL65_.jpg",
+      "id": 1
+    },
+    {
+      "name": "Shirt",
+      "des" : "Floral casural shirt, pure Cotton",
+      "price": 50,
+      "url": "https://m.media-amazon.com/images/I/51XatSFVktL._AC_UL480_FMwebp_QL65_.jpg",
+      "id": 2
+    },
+    {
+      "name": "Pants",
+      "des" : "Slim fit, Comfortable Formal wear trousers",
+      "price": 100,
+      "url": "https://m.media-amazon.com/images/I/71l7HSFEO-L._AC_UL480_FMwebp_QL65_.jpg",
+      "id": 3
+    },
+    {
+      "name": "Samsung Tablet",
+      "des" : "Android Tablet, 32GB, LongLasting Battery",
+      "price": 1000,
+      "url": "https://m.media-amazon.com/images/I/819hAP4xoGS._AC_UL480_FMwebp_QL65_.jpg",
+      "id": 4
+    },
+    {
+      "name": "Mouse",
+      "des" : "PC mouse, wired with RGB LED Lights",
+      "price": 40,
+      "url": "https://m.media-amazon.com/images/I/61-PZ9yZHEL._AC_UY327_FMwebp_QL65_.jpg",
+      "id": 5
+    }
+  ]
+}
